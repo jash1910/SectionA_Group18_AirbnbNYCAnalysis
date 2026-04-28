@@ -18,13 +18,13 @@
 
 | Role | Name | GitHub Username |
 |---|---|---|
-| Project Lead | _Name_ | `github-handle` |
-| Data Lead | _Name_ | `github-handle` |
-| ETL Lead | _Name_ | `github-handle` |
-| Analysis Lead | _Name_ | `github-handle` |
-| Visualization Lead | _Name_ | `github-handle` |
-| Strategy Lead | _Name_ | `github-handle` |
-| PPT and Quality Lead | _Name_ | `github-handle` |
+| Project Lead | Jashvitha | `https://github.com/jash1910` |
+| Data Lead |Krish| `https://github.com/krish-2509` |
+| ETL Lead |Akhil| `https://github.com/AkhilMishra2216` |
+| Analysis Lead |Aditya| `https://github.com/RajAditya7777` |
+| Visualization Lead |Jashvitha| `https://github.com/jash1910` |
+| Strategy Lead | Abhishek| `https://github.com/HeyBoY-ops` |
+| PPT and Quality Lead | Chaitanya | `https://github.com/Chait0001` |
 
 ---
 
