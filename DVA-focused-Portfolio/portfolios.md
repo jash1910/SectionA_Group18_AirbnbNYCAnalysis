@@ -8,3 +8,4 @@ Chaitanya Kumar- "https://portfolio-dva-indol.vercel.app/"
 
 Krish Dabas - "https://krish-2509.github.io/DVA_Portfolio/"
 
+Akhil Mishra - "https://portfolio-dva-bay.vercel.app/"
