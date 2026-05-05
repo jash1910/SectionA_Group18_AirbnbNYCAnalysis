@@ -143,16 +143,15 @@ The project follows a structured 7-step workflow:
 6. **Recommend** - 3-5 data-backed business recommendations delivered.
 7. **Report** - Final project report and presentation deck completed and exported to PDF in `reports/`.
 
----
 ## Contribution Matrix
 | Team Member | Dataset and Sourcing | ETL and Cleaning | EDA and Analysis | Statistical Analysis | Tableau Dashboard | Report Writing | PPT and Viva |
 |---|---|---|---|---|---|---|---|
-|Jashvitha| Support |Support | Support |Support | Owner |Support | Support |
-|Aditya|Support | Support | Owner| Support | Support |Support |Support  |
-|Chaitanya|Support | Support |Support  | Support  | Support  | Support | Owner |
-|Akhil| Support  |Owner | Support  | Support  | Support  | Support  | Support  |
-|Abhishek| Support  |Support  | Support  | Support  | Support  | Owner| Support  |
-|Krish| Owner | Support  | Support  | Support  | Support  | Support  | Support  |
+| Jashvitha | ✅ | | | | ✅ | | |
+| Aditya | | | ✅ | ✅ | | | |
+| Chaitanya | | | | | ✅ | | ✅ |
+| Akhil | | ✅ | | ✅ | | | |
+| Abhishek | | | | | ✅ | ✅ | |
+| Krish | | | ✅ | | | ✅ | |
 
 _Declaration: We confirm that the above contribution details are accurate and verifiable through GitHub Insights, PR history, and submitted artifacts._
 
